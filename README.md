@@ -1,2 +1,3 @@
 # jotcode.github.io
-homepage for jotcode
+homepage for jotcode. a placeholder.
+
